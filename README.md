@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Rosie%20Chai&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Mechatronics%20Engineering%20%40%20University%20of%20Waterloo&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Hi,%20I'm%20Rosie&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Mechatronics%20Engineering%20%40%20University%20of%20Waterloo&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 
 
