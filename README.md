@@ -63,11 +63,11 @@ Here are some ideas to get you started:
 
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/rosie-designs">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rosie-designs&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
   </a>
-</p>
+</p> -->
 
 ## 🔗 Connect with Me
 <p align="center">
